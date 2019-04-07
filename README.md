@@ -1,4 +1,9 @@
 # react-ga
+
+### IMPORTANT
+
+This repository was forked as part of AX-1450 to upgrade to react 16. It was forked due to peerDependency prop-types version being too rigid
+
 ### React Google Analytics Module
 
 [![Build Status](https://img.shields.io/travis/react-ga/react-ga/master.svg?style=flat-square)](https://travis-ci.org/react-ga/react-ga)
